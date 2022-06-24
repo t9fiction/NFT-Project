@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x90728D9e31Cb07137d4eCD091Fd349211502031A",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x90728d9e31cb07137d4ecd091fd349211502031a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Skull Zone",
+  "SYMBOL": "SKZ",
+  "MAX_SUPPLY": 212,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/skull-zone",
+  "SHOW_BACKGROUND": true
+}
